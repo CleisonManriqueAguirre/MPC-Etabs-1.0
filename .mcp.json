@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "etabs": {
+      "command": "D:\\MCP_etabs\\mcp_etabs\\Scripts\\python.exe",
+      "args": ["D:\\MCP_etabs\\etabs-mcp\\server.py"],
+      "env": {
+        "ETABS_INSTALL_DIR": "C:\\Program Files\\Computers and Structures\\ETABS 23"
+      }
+    }
+  }
+}
